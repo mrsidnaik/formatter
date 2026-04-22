@@ -108,11 +108,7 @@
       "groupId" : "8950D669-9606-48AF-8A27-A8FAF781EE87",
       "id" : "913895B3-EFBF-4758-BF8E-D84454063264",
       "isEnabled" : true,
-<<<<<<< HEAD
       "name" : "L",
-=======
-      "name" : "ʟ",
->>>>>>> fcfaf3d7a54dabdf091eec20c2f0a9c2ed3f017b
       "pattern" : "(?:^|[ ·])(?:[7-9]\\d)(?:\\.\\d+)?(?=\\s*(?:Mbps|mbps|ᴹᵇᵖˢ))",
       "tagColor" : "#33FFFFFF",
       "tagStyle" : "filled and bordered",
